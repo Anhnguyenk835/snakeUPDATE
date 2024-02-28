@@ -1,0 +1,5 @@
+﻿  GenerateMap.cpp
+C:\Users\anhnguyen\source\repos\HuntingSnake_Team02\HuntingSnake\GenerateMap.cpp(10,31): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\anhnguyen\source\repos\HuntingSnake_Team02\HuntingSnake\GenerateMap.cpp(42,31): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\anhnguyen\source\repos\HuntingSnake_Team02\HuntingSnake\GenerateMap.cpp(53,29): warning C4018: '<=': signed/unsigned mismatch
+  HuntingSnake.vcxproj -> C:\Users\anhnguyen\Source\Repos\HuntingSnake_Team02\x64\Debug\HuntingSnake.exe
